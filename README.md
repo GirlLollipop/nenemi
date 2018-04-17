@@ -1,7 +1,7 @@
 # Nenemi
 
 https://raw.githubusercontent.com/GirlLollipop/nenemi/master/assets/images/logo-nenemi.png
-![](https://raw.githubusercontent.com/GirlLollipop/nenemi/master/assets/images/logo-nenemi.png)
+![nenemi_logo](https://raw.githubusercontent.com/GirlLollipop/nenemi/master/assets/images/logo-nenemi.png)
 
 Porque Nenemi...
 
