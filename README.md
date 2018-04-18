@@ -1,6 +1,5 @@
 # Nenemi
 
-<<<<<<< HEAD
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
@@ -8,9 +7,6 @@
 ![](assets/images/img_readme.jpg)
 
 ![](assets/images/logo-nenemi.png)
-=======
-![nenemi_logo](https://raw.githubusercontent.com/GirlLollipop/nenemi/master/assets/images/logo-nenemi.png)
->>>>>>> d9652bd8e098771a35f5187574260011d231f87f
 
 ¿Por qué Nenemi?...
 
