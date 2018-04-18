@@ -4,7 +4,7 @@
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
 
-![](assets/images/img_readme.jpg)
+![](https://raw.githubusercontent.com/GirlLollipop/nenemi/master/assets/images/img_readme.jpg)
 
 ![](assets/images/logo-nenemi.png)
 
