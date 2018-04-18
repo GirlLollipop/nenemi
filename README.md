@@ -1,8 +1,14 @@
 # Nenemi
 
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
+![](assets/images/img_readme.jpg)
+
 ![](assets/images/logo-nenemi.png)
 
-Porque Nenemi...
+¿Por qué Nenemi?...
 
 Queremos que por medio de un juego se promueva el turismo, la cultura, el conocer la ciudad y lugares emblematicos, motivando a los usuarios a realizar paseos logrando que conozcan más de la ciudad.
 
